@@ -1,3 +1,4 @@
+streamlit
 plotly
 prophet
 pandas
@@ -6,4 +7,6 @@ matplotlib
 seaborn
 openpyxl
 scikit-learn
-  
+yfinance
+pytrends
+statsmodels
